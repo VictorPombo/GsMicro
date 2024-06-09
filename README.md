@@ -6,7 +6,8 @@ Victor Pombo da Silva Rm:86974 // Ricardo Abdala De Freitas Rm:89344 // André d
 
 ## Print da aplicação em execução
 
-![AplicativoRodando](https://github.com/VictorPombo/GsMicro/assets/99228259/6b675e31-8dcb-4f18-a07b-bbe47c639348)
+![AplicativoRodando](https://github.com/VictorPombo/GsMicro/assets/99228259/d1eb62ac-246a-471f-8cd3-471eee611d65)
+
 
 ## Instruções de execução:
 
