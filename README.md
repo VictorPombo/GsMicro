@@ -2,7 +2,8 @@
 
 ## Integrantes
 
-Victor Pombo da Silva Rm:86974 // Ricardo Abdala De Freitas Rm:89344 // André de Castro da Silva Rm:94858
+Victor Pombo da Silva Rm:86974 // André de Castro da Silva Rm:94858
+Ricardo Abdala de Freitas RM89344
 
 ## Print da aplicação em execução
 
